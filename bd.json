@@ -1,0 +1,16 @@
+{
+    "users": [
+
+        {
+            "id": 1,
+            "userName": "vinhntph",
+            "password": "12345",
+            "firtName": "Vinh",
+            "lastName": "Nguyễn",
+            "email":"vinhntph16238",
+            "gender":"male",
+            "createDate": "17/09/2023",
+            "updateDate": "17/09/2023"
+        }
+    ]
+}
